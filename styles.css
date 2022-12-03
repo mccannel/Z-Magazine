@@ -172,6 +172,7 @@ h3{
     flex-direction: column;
     width: 150px;
     height: 150px;
+    padding:30px;
 }
 a:link{
     color:black;
