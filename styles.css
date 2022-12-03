@@ -317,5 +317,10 @@ fieldset{
     padding: 10px;
     max-width:100%;
 }
+.mag-page-cover{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    max-width:80%;
  
 
