@@ -170,8 +170,8 @@ h3{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
 }
 a:link{
     color:black;
